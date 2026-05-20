@@ -1,0 +1,27 @@
+body {
+    background-color: #eda412;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    color: #000000;
+    padding: 5px 20px;
+    background-color: #09e732;
+    border-style: none;
+    margin-top: 0px;
+}
+input {
+    height: 25px;
+    border-style: none;
+}
+input, button {
+    vertical-align: middle;
+}
+h1 {
+    color: black;
+}
+p {
+    color: black;
+}
